@@ -1,2 +1,2 @@
 # kaif-demo
-this is the my first demo folder of git &amp; gitub
+this is the my first demo folder of git &amp; gitub.
